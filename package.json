@@ -1,0 +1,22 @@
+{
+  "name": "tree-sitter-acl2s",
+  "version": "0.1.0",
+  "description": "A Tree Sitter parser for the ACL2s Lisp dialect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "language",
+    "lisp",
+    "acl2s"
+  ],
+  "author": "Jake Trimble",
+  "license": "MIT",
+  "dependencies": {
+    "nan": "^2.14.1"
+  },
+  "devDependencies": {
+    "tree-sitter-cli": "^0.17.1"
+  }
+}
